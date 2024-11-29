@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Minesweeper (Kotlin)/task/build/
+/Minesweeper (Kotlin)/task/out/
+/Minesweeper (Kotlin)/task/out/production/classes/
